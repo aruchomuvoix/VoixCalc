@@ -1,4 +1,6 @@
 ❗️❗️❗️IMPORTANT❗️❗️❗️
+
+
 You must have .Net Framework 10 for the program working correctly.
 
 _________________________________
